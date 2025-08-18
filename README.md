@@ -52,9 +52,9 @@
 ---
 
 🎯 **Main focus: Back-End Development**
-
+(https://github.com/user-attachments/assets/63c8b237-e7db-4b66-acc3-f02693be3660)
 </div>
 
-(https://github.com/user-attachments/assets/63c8b237-e7db-4b66-acc3-f02693be3660)
+
 
 </div>
