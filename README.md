@@ -8,11 +8,15 @@
 
 ### 🎓 Formação
 
-- Graduated in **IT Technician** from ISFP Campinas  
+- Graduated in **IT Technician** from IFSP Campinas  
 - **Systems Development Technician** from SENAI  
 - Currently studying **Software Engineering**
 
 ---
+
+### 💼 Current Work
+
+I am currently working at **Bosch**
 
 ### 🚀 Tecnologias que utilizo
 
@@ -47,8 +51,3 @@
 
 ---
 
-<p align="center">
-
-<img src="https://github.com/user-attachments/assets/a8f95c7c-638a-4a9a-843e-0f17613ba242" alt="Foto de perfil" width="300" style="border-radius: 15px;" />
-
-</p>
