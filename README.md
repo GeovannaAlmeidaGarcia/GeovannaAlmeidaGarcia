@@ -38,17 +38,7 @@ I am currently working at **Bosch**
 ---
 
 
-### 📊 Estatísticas de uso das linguagens
 
-
-<a href="https://github.com/GeovannaAlmeidaGarcia">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GeovannaAlmeidaGarcia&theme=radical&show_icons=true&hide_border=false&count_private=true" width="420"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaAlmeidaGarcia&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br" width="320"
-  />
-</a>
 
 
 
